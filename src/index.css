@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pageHeader {
+  background-color: yellow;
+}
